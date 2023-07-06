@@ -1595,11 +1595,11 @@
    }
  }
 
- .newBtn {
+ /* .newBtn {
    display: flex;
    padding-left: 21%;
    padding-left: 21%;
- }
+ } */
 
  .nav1 {
   min-width: 16em;
