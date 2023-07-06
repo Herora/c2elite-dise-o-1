@@ -22877,3 +22877,12 @@ a.u-button-style.u-border-20 {
 .u-enable-responsive .u-nav-container-collapse2 {
   display: flex;
 }
+
+.newHeader{
+  display: flex;
+  flex-direction: unset;
+}
+
+select{
+  border: none;
+}
