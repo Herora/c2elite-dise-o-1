@@ -7616,7 +7616,7 @@ li.active > a.u-button-style.u-button-style.u-border-active-palette-2 {
   stroke: #ef5a61;
 }
 .u-button-style.u-border-palette-2-light-1 {
-  border-color: #ef5a61 !important;
+  border-color: #ff000000 !important;
   color: #ef5a61 !important;
   background-color: transparent !important;
 }
